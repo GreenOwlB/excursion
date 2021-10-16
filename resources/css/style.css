@@ -1,0 +1,45 @@
+body {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* width: 100%; */
+    padding: 15px;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    width: 100%;
+}
+
+footer p {
+    justify-content: right;
+    text-align: right;
+}
+
+.imgBox2 {
+    margin-top: 20px;
+}
